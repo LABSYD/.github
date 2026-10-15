@@ -19,5 +19,6 @@ To help shape a future where space technology and secure software open new possi
 
 Connect
 Interested in collaborating, building something, or learning more about LABSYD? Get in touch with our team.
-<br>
+
+
 LABSYD — Live above and beyond space your dreams.
