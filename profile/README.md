@@ -1,5 +1,5 @@
-# LABSYD
-Live above and beyond our space your dreams
+<!-- # LABSYD
+Live above and beyond our space your dreams-->
 
 <p align="center">
   <img src="syd.png" alt="SYD" align="center">
